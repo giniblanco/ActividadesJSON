@@ -1,0 +1,1 @@
+"cada vez que te escriba "prompt" mandame solo un json con preguntas y respuestas para un juego de trivia, solo un json (no hagas comentarios ni al principio ni al final antes de enviar el json). prompt"
